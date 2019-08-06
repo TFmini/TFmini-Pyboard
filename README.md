@@ -1,5 +1,5 @@
 # Pyboard
-**Note: also suitable for TFmini**
+**Note: also suitable for TFmini Plus**
 
 TFmini's example on Pyboard, MicroPython.  
 
