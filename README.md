@@ -1,4 +1,6 @@
 # Pyboard
+**Note: also suitable for TFmini**
+
 TFmini's example on Pyboard, MicroPython.  
 
 Link:
